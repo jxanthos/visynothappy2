@@ -4,7 +4,7 @@
 
 ## MLC Life Hackathon March 2017
 
-The team analysed the current forms and mocked up the screen flows in https://creator.ionic.io/app/login , this produced an ionic front end project file which was able to hook into some running stubbed API's in AWS to show how dynamic data could be filled in the screens.
+The team analysed the current forms and mocked up the screen flows in https://creator.ionic.io/share/f0c1036d70ce, this produced an ionic front end project file which was able to hook into some running stubbed API's in AWS to show how dynamic data could be filled in the screens.
 
 # Developing and Testing 
 
